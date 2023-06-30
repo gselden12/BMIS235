@@ -1,0 +1,102 @@
+/*
+    Gabriel Selden
+    06-30-23
+*/
+
+body {
+    background-color: #ffff;
+    /*font-family: inherit; */
+}
+
+.common {
+    /* background-color: #cccccc; */
+    border: 2px solid white;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #5555;
+}
+
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 39px;
+    z-index: 1;
+    padding-top: 40px;
+    border-right: solid 1px #5555;
+}
+
+.mainbody {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-left: 5px;
+
+}
+
+.rightmenu {
+top: 114px;
+right: 5px;
+width: 100px;
+bottom: 39px;
+border-left: solid 1px #5555;
+padding-left: 5px;
+}
+
+.footer {
+bottom: 5px;
+left: 5px;
+right: 5px;
+height: 25px;
+font-size: 8px;
+color: #999999;
+text-align: center;
+padding-top: 15px;
+position: fixed;
+}
+
+.subheader {
+    float: right;
+}
+
+.grayhighlight {
+    display: inline-block;
+    padding: .25em 0;
+    /*background: gainsboro;*/
+    color: black;
+}
+
+.tabbold  {
+    font-weight: bolder;
+}
+
+.tabinherit {
+    font-family: inherit;
+}
+
+.captionfont {
+    font-size: 20px
+}
+
+.backcolor {
+    background-color: gainsboro;
+}
+
+.HeadingFull {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.FooterText {
+    font-size: 21px;
+    color: black;
+}

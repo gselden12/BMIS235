@@ -1,0 +1,60 @@
+/* Gabriel Selden
+    06-30-2023
+*/
+
+/* p{
+    font-family: papyrus
+} */
+
+.centeralign {
+    text-align: center;
+} 
+
+.homeblue {
+    color: darkblue;
+    font-family:inherit;
+}
+
+.imageborder {
+    border: 5px solid #555;
+}
+
+.bannerfont {
+    font-family:serif;
+}
+
+.italicize {
+    font-style: italic;
+}
+
+.linkcolor {
+    color:orangered;
+}
+
+.leftalign {
+    text-align: left;
+}
+
+.inherit {
+    font-family: inherit;
+}
+
+.HomeColor {
+    color: white;
+}
+
+.boldtext  {
+    font-weight: bolder;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.imageborderRed {
+    border: 5px solid #ff0000;
+}
+
+.maroon {
+    color:maroon;
+}
